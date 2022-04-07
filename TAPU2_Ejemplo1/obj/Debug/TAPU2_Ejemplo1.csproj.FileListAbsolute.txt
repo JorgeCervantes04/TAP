@@ -1,0 +1,10 @@
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\bin\Debug\TAPU2_Ejemplo1.exe.config
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\bin\Debug\TAPU2_Ejemplo1.exe
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\bin\Debug\TAPU2_Ejemplo1.pdb
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\obj\Debug\TAPU2_Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\obj\Debug\TAPU2_Ejemplo1.Ejecucion.resources
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\obj\Debug\TAPU2_Ejemplo1.Properties.Resources.resources
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\obj\Debug\TAPU2_Ejemplo1.csproj.GenerateResource.cache
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\obj\Debug\TAPU2_Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\obj\Debug\TAPU2_Ejemplo1.exe
+C:\Users\lenovo1\source\repos\TAPU2_Ejemplo1\TAPU2_Ejemplo1\obj\Debug\TAPU2_Ejemplo1.pdb
